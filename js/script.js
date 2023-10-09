@@ -1,5 +1,3 @@
-const tasks = [];
-
 function getCurrentTime() {
     const now = new Date();
     const hours = now.getHours();
